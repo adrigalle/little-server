@@ -1,0 +1,49 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "things",
+      "published": false
+    },
+    {
+      "id": 2,
+      "title": "second",
+      "published": true
+    },
+    {
+      "id": 3,
+      "title": "second",
+      "published": true
+    },
+    {
+      "id": 4,
+      "title": "ping",
+      "published": false
+    },
+    {
+      "id": 5,
+      "title": "anotherone",
+      "published": true
+    },
+    {
+      "id": 6,
+      "title": "thingamabob",
+      "published": true
+    },
+    {
+      "id": 7,
+      "title": "lastthing",
+      "published": false
+    },
+    {
+      "id": 8,
+      "title": "last",
+      "published": false
+    },
+    {
+      "id": 9,
+      "title": "nextlast",
+      "published": false
+    }
+  ]
+}
